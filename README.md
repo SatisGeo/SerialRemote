@@ -1,7 +1,7 @@
 # SerialRemote
 This is an example application to control SatisGeo PMG-2 remotely using the USB serial port. 
 
-![Application Window](/coc/app.png)
+![Application Window](/doc/app.png)
 
 This is an example application to control SatisGeo PMG-2 remotely using the USB serial port. 
 To use this application, the PMG-2 firmware version must be 4.08.r and higher, and remote mode must first be enabled. To enable it, go to the MEASURE menu and select REMOTE, then connect a USB cable. The PMG-2 will connect to the PC as a USB serial port.
